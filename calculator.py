@@ -1,3 +1,9 @@
+...
+A simple Python Tkinter based calculator, for now it can only perform addition and subtraction
+
+The code is very simple, the first Tkinter program I wrote to build a simple calculator
+...
+
 from tkinter import *
 
 root = Tk()
